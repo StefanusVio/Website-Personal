@@ -39,7 +39,7 @@
                 <p class="deskripsi">ATM</p>
                 <h2>Kelurahan Tembalang</h2>
                 <p>ATM atau Anjungan Tunai Mandiri adalah mesin elektronik yang disediakan oleh bank untuk memudahkan nasabah dalam melakukan transaksi, setor, dan tarik tunai, tanpa perlu mengunjungi kantor cabang bank.</p>
-                <p>Kelurahan Tembalang memiliki luas wilayah sebesar 3.924,60 Ha dengan total 150 RW, dan 1.139 RT. Kelurahan Tembalang kini memiliki jumlah penduduk sekitar 195.352 jiwa.</p>
+                <p>Kelurahan Tembalang memiliki luas wilayah sebesar 855.838 Ha dengan total 8 RW, dan 35 RT. Kelurahan Tembalang kini memiliki jumlah penduduk sekitar 6.511 jiwa.</p>
             </div>
             <img src="https://i.pinimg.com/originals/d6/fa/b9/d6fab9f9f91a1502ad413563276fd1c5.gif"/>
         </section>
