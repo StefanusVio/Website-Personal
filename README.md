@@ -55,7 +55,7 @@
 
                 <div class="tutor-list">
                     <div class="kartu-tutor">
-                        <iframe  style="border: none;" height="800" width="1000" src="http://localhost:8083/mapstore/dashboard-embedded.html#/21"></iframe>
+                        <iframe  style="border: none;" height="800" width="1000" src="https://qgiscloud.com/elindarahma/cb_osig"></iframe>
                         <p>Peta Persebaran ATM di Kelurahan Tembalang</p>
                     </div>
                 </div>
